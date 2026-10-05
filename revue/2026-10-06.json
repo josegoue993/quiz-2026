@@ -1,0 +1,67 @@
+{
+ "date": "2026-10-06",
+ "titre": "Revue de presse du 6 octobre 2026",
+ "items": [
+  {
+   "titre": "Fusions d'entreprises : l'Autorité de la concurrence dit « oui, mais »",
+   "texte": "L'avant-projet de loi du pays du gouvernement « portant diverses mesures urgentes de soutien à l'économie » prévoit de relever les seuils de notification des concentrations : de 1,2 à 2 milliards F CFP de chiffre d'affaires total, et de 200 à 500 millions de chiffre d'affaires individuel. L'Autorité de la concurrence de Nouvelle-Calédonie rend un avis favorable, mais demande de garder un moyen de contrôle en cas de risque pour la concurrence.",
+   "oral": "Bon exemple de loi du pays (fiscalité et droit économique relèvent de l'article 99 de la loi organique) et du rôle consultatif d'une autorité administrative indépendante créée par la Nouvelle-Calédonie."
+  },
+  {
+   "titre": "Le Congrès approuve l'avenant n° 2 au contrat de développement État / Nouvelle-Calédonie",
+   "texte": "Par la délibération n° 18 du 1er octobre 2026, le Congrès a approuvé à l'unanimité l'avenant n° 2 au contrat de développement État / Nouvelle-Calédonie 2024-2027. Le texte habilite le président du gouvernement à le signer.",
+   "oral": "Illustre la différence entre délibération et loi du pays, et le partenariat financier entre l'État et les collectivités calédoniennes (voir la question du jour)."
+  },
+  {
+   "titre": "Le Camp-Est bloqué par FO Justice",
+   "texte": "Le syndicat FO Justice a bloqué lundi matin l'accès au Camp-Est, la prison de Nouméa, pour dénoncer la dégradation des conditions de travail des agents pénitentiaires. Il met en cause les nuisances et les risques liés aux travaux menés depuis plus d'un an dans le quartier des mineurs.",
+   "oral": "La justice et l'administration pénitentiaire restent des compétences de l'État : utile pour rappeler la répartition des compétences, et la conciliation entre droit de grève et continuité du service public."
+  },
+  {
+   "titre": "Tourisme : une campagne pour reconquérir les visiteurs de métropole",
+   "texte": "Nouvelle-Calédonie Tourisme lancera en novembre une campagne de promotion à destination des voyageurs de métropole, sur YouTube et en publicité en ligne, mettant en avant les lagons, les grands espaces et la culture kanak. Elle fait suite à une première opération au printemps, la fréquentation restant en retrait par rapport à 2023.",
+   "oral": "Exemple concret de politique de relance de l'économie après la crise de 2024."
+  },
+  {
+   "titre": "Pesticides et bisphénols : une étude sur les cheveux d'enfants calédoniens",
+   "texte": "Une étude menée sur 47 enfants et adolescents calédoniens de 1 à 15 ans met en évidence une exposition aux pesticides, avec des taux légèrement supérieurs à ceux relevés dans une ville polluée de métropole. Plusieurs composés interdits en Europe ont aussi été détectés.",
+   "oral": "Sujet de santé publique et d'environnement : la santé et la réglementation de ces produits relèvent de la Nouvelle-Calédonie, ce qui illustre l'étendue de ses compétences."
+  }
+ ],
+ "question": {
+  "q": "Qu'est-ce qu'un contrat de développement entre l'État et la Nouvelle-Calédonie ?",
+  "r": "C'est un contrat pluriannuel, prévu par la loi organique de 1999, par lequel l'État et les collectivités calédoniennes cofinancent des équipements et des politiques publiques (logement, infrastructures, formation, rééquilibrage). Le contrat en cours couvre 2024-2027. Le Congrès l'approuve par délibération et peut l'ajuster par avenant, comme il l'a fait le 1er octobre 2026."
+ },
+ "sources": [
+  {
+   "titre": "Facilitation des fusions d'entreprises : le « oui mais » de l'Autorité de la concurrence",
+   "media": "La Voix du Caillou",
+   "date": "06/10/2026",
+   "url": "https://voixducaillou.nc/2026/10/06/facilitation-des-fusions-dentreprises-le-oui-mais-de-lautorite-de-la-concurrence/"
+  },
+  {
+   "titre": "Délibération n° 18 du 1er octobre 2026 portant approbation de l'avenant n° 2 au contrat de développement État / Nouvelle-Calédonie 2024-2027",
+   "media": "Congrès de la Nouvelle-Calédonie",
+   "date": "02/10/2026",
+   "url": "https://www.congres.nc/deliberation-n18-du-1er-octobre-2026-portant-approbation-de-lavenant-n2-au-contrat-de-developpement-etat-nouvelle-caledonie-2024-2027-et-habilitant-le-president-du-gouvernement-a-le-si/"
+  },
+  {
+   "titre": "Le Camp-Est bloqué par FO Justice",
+   "media": "La Voix du Caillou",
+   "date": "06/10/2026",
+   "url": "https://voixducaillou.nc/2026/10/06/le-camp-est-bloque-par-fo-justice/"
+  },
+  {
+   "titre": "Une campagne pour reconquérir les touristes métropolitains",
+   "media": "La Voix du Caillou",
+   "date": "06/10/2026",
+   "url": "https://voixducaillou.nc/2026/10/06/une-campagne-pour-reconquerir-les-touristes-metropolitain/"
+  },
+  {
+   "titre": "Pesticides, bisphénols : ce que révèlent les cheveux des enfants calédoniens",
+   "media": "La Voix du Caillou",
+   "date": "06/10/2026",
+   "url": "https://voixducaillou.nc/2026/10/06/pesticides-bisphenols-ce-que-revelent-les-cheveux-des-enfants-caledoniens/"
+  }
+ ]
+}
