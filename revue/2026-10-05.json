@@ -1,56 +1,20 @@
-{
- "date": "2026-10-05",
- "titre": "Revue de presse du 5 octobre 2026",
- "items": [
-  {
-   "titre": "Le Congrès prolonge les mesures de reconstruction et l'AEME",
-   "texte": "Le 1er octobre 2026, le Congrès a adopté à l'unanimité une loi du pays qui prolonge les procédures d'urbanisme simplifiées pour reconstruire les bâtiments détruits lors des émeutes de 2024, pour cinq ans. Le même texte prolonge l'allocation exceptionnelle de maintien dans l'emploi (AEME) jusqu'au 31 décembre 2026.",
-   "oral": "exemple concret de loi du pays dans le domaine de l'article 99 et de politique de reconstruction."
-  },
-  {
-   "titre": "Avenant n° 2 au contrat de développement État – Nouvelle-Calédonie",
-   "texte": "Le même jour, le Congrès a approuvé à l'unanimité l'avenant n° 2 au contrat de développement 2024-2027 entre l'État et la Nouvelle-Calédonie. La délibération n° 18 habilite le président du gouvernement à le signer.",
-   "oral": "illustre la différence entre loi du pays et délibération, et le rôle du gouvernement, exécutif qui signe au nom de la Nouvelle-Calédonie."
-  },
-  {
-   "titre": "Budget 2027 : +10 % pour le ministère des Outre-mer",
-   "texte": "Selon le projet de loi de finances pour 2027, les moyens du ministère des Outre-mer augmentent de 10 %, pour environ 440 milliards de francs. Près de 34 milliards de francs sont prévus pour la Nouvelle-Calédonie, afin de soutenir le gouvernement local et la relance.",
-   "oral": "à relier au soutien financier de l'État et à la situation des finances publiques calédoniennes."
-  },
-  {
-   "titre": "Viaduc du Mont-Dore : le CESE ne tranche pas",
-   "texte": "Le 2 octobre 2026, le CESE a adopté à l'unanimité des conclusions estimant qu'il n'est pas possible d'émettre un avis sur le projet de viaduc. Il demande de poursuivre les études et d'examiner les différentes options avant toute décision.",
-   "oral": "rappelle le rôle consultatif du CESE : il donne un avis, il ne décide pas."
-  }
- ],
- "question": {
-  "q": "Le Congrès vient d'adopter une loi du pays sur la reconstruction. Qu'est-ce qui distingue une loi du pays d'une délibération ?",
-  "r": "La loi du pays a force de loi dans les matières de l'article 99 de la loi organique ; elle passe pour avis au Conseil d'État et peut être déférée au Conseil constitutionnel. La délibération est un acte réglementaire, contrôlé par le juge administratif. Exemple du 1er octobre : la reconstruction par loi du pays, l'avenant au contrat de développement par délibération."
- },
- "sources": [
-  {
-   "titre": "Le Congrès prolonge les mesures pour faciliter la reconstruction et l'allocation de maintien dans l'emploi",
-   "media": "Les Nouvelles Calédoniennes",
-   "date": "02/10/2026",
-   "url": "https://www.lnc.nc/article/le-congres-prolonge-les-mesures-pour-faciliter-la-reconstruction-et-l-allocation-de-maintien-dans-l-emploi"
-  },
-  {
-   "titre": "Délibération n°18 du 1er octobre 2026 (avenant n°2 au contrat de développement)",
-   "media": "Congrès de la Nouvelle-Calédonie",
-   "date": "01/10/2026",
-   "url": "https://www.congres.nc/deliberation-n18-du-1er-octobre-2026-portant-approbation-de-lavenant-n2-au-contrat-de-developpement-etat-nouvelle-caledonie-2024-2027-et-habilitant-le-president-du-gouvernement-a-le-si/"
-  },
-  {
-   "titre": "Budget 2027 : hausse de 10 % des moyens du ministère des Outre-mer",
-   "media": "Les Nouvelles Calédoniennes",
-   "date": "02/10/2026",
-   "url": "https://www.lnc.nc/article/budget-2027-hausse-de-10-des-moyens-du-ministere-des-outre-mer"
-  },
-  {
-   "titre": "Viaduc du Mont-Dore : le Cese ne tranche pas",
-   "media": "Les Nouvelles Calédoniennes",
-   "date": "02/10/2026",
-   "url": "https://www.lnc.nc/article/viaduc-du-mont-dore-le-cese-ne-tranche-pas"
-  }
- ]
-}
+{"date": "2026-10-05", "titre": "Revue de presse du 5 octobre 2026", "items": [
+{"titre": "Le Congrès prolonge les mesures de reconstruction et l'AEME", "texte": "Le 1er octobre 2026, le Congrès a adopté à l'unanimité une loi du pays qui permet, pendant cinq ans, de remplacer le permis de construire par une déclaration préalable pour reconstruire les bâtiments détruits lors des émeutes de 2024. Le texte prolonge aussi l'allocation exceptionnelle de maintien dans l'emploi (AEME) jusqu'au 31 décembre 2026, pour un coût estimé à environ 120 millions de francs.", "oral": "Exemple récent de loi du pays : simplification administrative au service de la relance, à relier au rôle du Congrès."},
+{"titre": "Avenant n° 2 au contrat de développement État – Nouvelle-Calédonie", "texte": "Le Congrès a approuvé à l'unanimité, le 1er octobre 2026, l'avenant n° 2 au contrat de développement 2024-2027 entre l'État et la Nouvelle-Calédonie. La délibération n° 18 habilite le président du gouvernement à le signer.", "oral": "Illustre la différence entre loi du pays et délibération, et la contractualisation des financements entre l'État et les collectivités."},
+{"titre": "Budget 2027 : +10 % pour les Outre-mer, près de 34 milliards pour la Calédonie", "texte": "Le projet de loi de finances pour 2027 porte les moyens du ministère des Outre-mer à environ 440 milliards de francs, soit une hausse de 10 %. Près de 34 milliards de francs sont prévus pour la Nouvelle-Calédonie au titre du soutien à la reconstruction.", "oral": "À mobiliser sur les finances publiques calédoniennes et la dépendance aux concours de l'État."},
+{"titre": "Viaduc du Mont-Dore : le CESE ne se prononce pas", "texte": "Saisi par une pétition citoyenne, le CESE a adopté le 2 octobre 2026 à l'unanimité des conclusions estimant qu'il n'est pas possible, à ce stade, d'émettre un avis sur le projet de viaduc, évalué entre 40 et 60 milliards de francs. Il demande la poursuite et la publication des études, ainsi que l'examen des solutions alternatives ; une étude d'impact a été mise en concurrence par la province Sud cette année.", "oral": "Rappelle le rôle consultatif du CESE et l'importance des études préalables avant un grand marché public d'infrastructure."},
+{"titre": "Émeutes : l'État condamné à indemniser deux armureries", "texte": "Par un jugement du 23 septembre 2026, le tribunal administratif a condamné l'État à verser 8,6 millions de francs à deux armureries de Ducos, dont les stocks avaient été transférés sur une base militaire pendant environ cinq mois en 2024. Le tribunal a retenu la rupture d'égalité devant les charges publiques, responsabilité sans faute, mais n'a indemnisé que les pertes de juillet à septembre.", "oral": "Bel exemple de responsabilité administrative sans faute, à citer en droit public."},
+{"titre": "Enquête sur les besoins de recrutement 2027", "texte": "La DTEFP lance son enquête annuelle « Besoins en main-d'œuvre » auprès des employeurs, réalisée par l'institut I-SCOPE, avec une date limite fixée au 20 novembre 2026. Les résultats, anonymes, seront publiés à partir de février 2027 et serviront à ajuster l'offre de formation professionnelle.", "oral": "Montre comment l'administration s'appuie sur des données pour piloter les politiques d'emploi et de formation."},
+{"titre": "Semaine de l'industrie : 540 visiteurs", "texte": "La 13e Semaine de l'industrie, du 7 au 18 septembre 2026, a accueilli 540 visiteurs, dont 348 scolaires, dans les entreprises participantes. La FEINC, organisatrice, fédère 204 entreprises qui emploient 6 074 personnes.", "oral": "Utile pour évoquer le tissu industriel local et la diversification économique hors nickel."}
+],
+"question": {"q": "Le tribunal administratif vient d'indemniser deux armureries sans retenir de faute de l'État. Sur quel fondement ?", "r": "Sur la responsabilité sans faute pour rupture d'égalité devant les charges publiques. Une mesure prise dans l'intérêt général peut imposer à certains un préjudice anormal et spécial, qui doit alors être réparé. Ici, le transfert des stocks d'armes en 2024 a privé les commerces de leur activité ; seules les pertes imputables à cette mesure ont été indemnisées."},
+"sources": [
+{"titre": "Le Congrès prolonge les mesures pour faciliter la reconstruction et l'allocation de maintien dans l'emploi", "media": "Les Nouvelles Calédoniennes", "date": "02/10/2026", "url": "https://www.lnc.nc/article/le-congres-prolonge-les-mesures-pour-faciliter-la-reconstruction-et-l-allocation-de-maintien-dans-l-emploi"},
+{"titre": "Délibération n°18 du 1er octobre 2026 (avenant n°2 au contrat de développement)", "media": "Congrès de la Nouvelle-Calédonie", "date": "01/10/2026", "url": "https://www.congres.nc/deliberation-n18-du-1er-octobre-2026-portant-approbation-de-lavenant-n2-au-contrat-de-developpement-etat-nouvelle-caledonie-2024-2027-et-habilitant-le-president-du-gouvernement-a-le-si/"},
+{"titre": "Budget 2027 : hausse de 10 % des moyens du ministère des Outre-mer", "media": "Les Nouvelles Calédoniennes", "date": "02/10/2026", "url": "https://www.lnc.nc/article/budget-2027-hausse-de-10-des-moyens-du-ministere-des-outre-mer"},
+{"titre": "Viaduc du Mont-Dore : le Cese ne tranche pas", "media": "Les Nouvelles Calédoniennes", "date": "03/10/2026", "url": "https://www.lnc.nc/article/viaduc-du-mont-dore-le-cese-ne-tranche-pas"},
+{"titre": "Viaduc du Mont-Dore : combien de temps encore au milieu du gué ?", "media": "Radio Cocotier", "date": "05/10/2026", "url": "https://radiococotier.nc/2026/10/05/viaduc-du-mont-dore-combien-de-temps-encore-au-milieu-du-gue/"},
+{"titre": "Émeutes : l'État devra verser 8,6 millions à deux armureries", "media": "Radio Cocotier", "date": "04/10/2026", "url": "https://radiococotier.nc/2026/10/04/emeutes-letat-devra-verser-86-millions-a-deux-armureries/"},
+{"titre": "Recrutement, les employeurs invités à préciser leurs besoins", "media": "Radio Cocotier", "date": "03/10/2026", "url": "https://radiococotier.nc/2026/10/03/recrutement-les-employeurs-invites-a-preciser-leurs-besoins/"},
+{"titre": "Semaine de l'industrie : 540 visiteurs à la découverte de la production locale", "media": "Radio Cocotier", "date": "05/10/2026", "url": "https://radiococotier.nc/2026/10/05/semaine-de-lindustrie-540-visiteurs-a-la-decouverte-de-la-production-locale/"}
+]}
