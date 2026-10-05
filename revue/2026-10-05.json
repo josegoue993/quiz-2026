@@ -1,0 +1,56 @@
+{
+ "date": "2026-10-05",
+ "titre": "Revue de presse du 5 octobre 2026",
+ "items": [
+  {
+   "titre": "Le Congrès prolonge les mesures de reconstruction et l'AEME",
+   "texte": "Le 1er octobre 2026, le Congrès a adopté à l'unanimité une loi du pays qui prolonge les procédures d'urbanisme simplifiées pour reconstruire les bâtiments détruits lors des émeutes de 2024, pour cinq ans. Le même texte prolonge l'allocation exceptionnelle de maintien dans l'emploi (AEME) jusqu'au 31 décembre 2026.",
+   "oral": "exemple concret de loi du pays dans le domaine de l'article 99 et de politique de reconstruction."
+  },
+  {
+   "titre": "Avenant n° 2 au contrat de développement État – Nouvelle-Calédonie",
+   "texte": "Le même jour, le Congrès a approuvé à l'unanimité l'avenant n° 2 au contrat de développement 2024-2027 entre l'État et la Nouvelle-Calédonie. La délibération n° 18 habilite le président du gouvernement à le signer.",
+   "oral": "illustre la différence entre loi du pays et délibération, et le rôle du gouvernement, exécutif qui signe au nom de la Nouvelle-Calédonie."
+  },
+  {
+   "titre": "Budget 2027 : +10 % pour le ministère des Outre-mer",
+   "texte": "Selon le projet de loi de finances pour 2027, les moyens du ministère des Outre-mer augmentent de 10 %, pour environ 440 milliards de francs. Près de 34 milliards de francs sont prévus pour la Nouvelle-Calédonie, afin de soutenir le gouvernement local et la relance.",
+   "oral": "à relier au soutien financier de l'État et à la situation des finances publiques calédoniennes."
+  },
+  {
+   "titre": "Viaduc du Mont-Dore : le CESE ne tranche pas",
+   "texte": "Le 2 octobre 2026, le CESE a adopté à l'unanimité des conclusions estimant qu'il n'est pas possible d'émettre un avis sur le projet de viaduc. Il demande de poursuivre les études et d'examiner les différentes options avant toute décision.",
+   "oral": "rappelle le rôle consultatif du CESE : il donne un avis, il ne décide pas."
+  }
+ ],
+ "question": {
+  "q": "Le Congrès vient d'adopter une loi du pays sur la reconstruction. Qu'est-ce qui distingue une loi du pays d'une délibération ?",
+  "r": "La loi du pays a force de loi dans les matières de l'article 99 de la loi organique ; elle passe pour avis au Conseil d'État et peut être déférée au Conseil constitutionnel. La délibération est un acte réglementaire, contrôlé par le juge administratif. Exemple du 1er octobre : la reconstruction par loi du pays, l'avenant au contrat de développement par délibération."
+ },
+ "sources": [
+  {
+   "titre": "Le Congrès prolonge les mesures pour faciliter la reconstruction et l'allocation de maintien dans l'emploi",
+   "media": "Les Nouvelles Calédoniennes",
+   "date": "02/10/2026",
+   "url": "https://www.lnc.nc/article/le-congres-prolonge-les-mesures-pour-faciliter-la-reconstruction-et-l-allocation-de-maintien-dans-l-emploi"
+  },
+  {
+   "titre": "Délibération n°18 du 1er octobre 2026 (avenant n°2 au contrat de développement)",
+   "media": "Congrès de la Nouvelle-Calédonie",
+   "date": "01/10/2026",
+   "url": "https://www.congres.nc/deliberation-n18-du-1er-octobre-2026-portant-approbation-de-lavenant-n2-au-contrat-de-developpement-etat-nouvelle-caledonie-2024-2027-et-habilitant-le-president-du-gouvernement-a-le-si/"
+  },
+  {
+   "titre": "Budget 2027 : hausse de 10 % des moyens du ministère des Outre-mer",
+   "media": "Les Nouvelles Calédoniennes",
+   "date": "02/10/2026",
+   "url": "https://www.lnc.nc/article/budget-2027-hausse-de-10-des-moyens-du-ministere-des-outre-mer"
+  },
+  {
+   "titre": "Viaduc du Mont-Dore : le Cese ne tranche pas",
+   "media": "Les Nouvelles Calédoniennes",
+   "date": "02/10/2026",
+   "url": "https://www.lnc.nc/article/viaduc-du-mont-dore-le-cese-ne-tranche-pas"
+  }
+ ]
+}
