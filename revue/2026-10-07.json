@@ -1,0 +1,91 @@
+{
+ "date": "2026-10-07",
+ "titre": "Revue de presse du 7 octobre 2026",
+ "items": [
+  {
+   "titre": "Îles Matthew et Hunter : le Vanuatu réagit au courrier d'un député calédonien",
+   "texte": "Le 1er octobre, le député Nicolas Metzdorf a adressé au Premier ministre du Vanuatu un courrier satirique sur la revendication vanuataise des îlots Matthew et Hunter, réaffirmée fin septembre devant l'ONU. Le gouvernement du Vanuatu l'a qualifié de « diatribe honteuse, raciste et néocoloniale », son opposition a réclamé des excuses, tout comme le FLNKS, tandis que le député a maintenu sa position sur RRB le 6 octobre.",
+   "oral": "Rappeler que les relations extérieures relèvent de l'État, la Nouvelle-Calédonie pouvant être associée à la coopération régionale et membre d'organisations du Pacifique (loi organique de 1999)."
+  },
+  {
+   "titre": "Congrès : rencontre avec les aînés et préparation de la session budgétaire",
+   "texte": "Le 6 octobre, la présidente du Congrès Virginie Ruffenach a reçu une délégation de l'ACAPA, association d'aide aux personnes âgées, qui l'a interrogée sur la santé, l'économie, les retraites et l'avenir du pays. Elle a par ailleurs déposé le 1er octobre une proposition de délibération fixant la date d'ouverture et la durée de la seconde session ordinaire 2026, la commission permanente étant habilitée pendant l'intersession d'août à novembre.",
+   "oral": "Savoir présenter le fonctionnement du Congrès : deux sessions ordinaires par an, dont une consacrée au budget, et une commission permanente qui agit entre les sessions sur habilitation."
+  },
+  {
+   "titre": "Choose NC : un sommet pour attirer les investisseurs en mars 2027",
+   "texte": "Le vice-président du gouvernement Christopher Gygès a annoncé à Paris, avec Aircalin, le MEDEF, la CCI et la FEINC, le premier sommet économique Choose NC, prévu à Nouméa du 16 au 18 mars 2027. L'événement cible l'économie maritime, le numérique, les ressources durables et la transition énergétique, dans le cadre de la feuille de route « Attractivité 2026-2029 ».",
+   "oral": "Exemple d'action de développement économique : le jury peut demander comment se répartissent les compétences économiques entre Nouvelle-Calédonie et provinces."
+  },
+  {
+   "titre": "Dumbéa signe avec le parquet une convention de rappel à l'ordre",
+   "texte": "Le 6 octobre, la maire de Dumbéa Cynthia Jan et le procureur de la République Yves Dupas ont signé une convention dans le cadre du plan de tranquillité publique adopté en juillet. Elle prévoit le rappel à l'ordre par le maire (voisinage, nuisances, absentéisme scolaire, incivilités) et une transaction de réparation pour certaines contraventions, jusqu'à 30 heures de travail non rémunéré, validée par le parquet.",
+   "oral": "Illustration des pouvoirs de police du maire et de l'articulation avec l'autorité judiciaire ; rappeler que la procédure pénale reste de la compétence de l'État."
+  },
+  {
+   "titre": "Lycées : appel au blocus le 7 octobre",
+   "texte": "Des appels relayés sur les réseaux sociaux invitent les élèves de plusieurs lycées du Grand Nouméa (Lapérouse, Escoffier, Jules-Garnier, Mont-Dore, Dick-Ukeiwé) à bloquer leurs établissements le 7 octobre. Ils dénoncent la charge de cours, l'état des locaux, le manque de personnel, le stress de Parcoursup et les difficultés de transport.",
+   "oral": "Occasion de rappeler que l'enseignement du second degré est une compétence de la Nouvelle-Calédonie depuis le 1er janvier 2012, l'État rémunérant les personnels mis à disposition."
+  }
+ ],
+ "question": {
+  "q": "Comment la compétence en matière d'enseignement est-elle répartie en Nouvelle-Calédonie ?",
+  "r": "Depuis le 1er janvier 2012, la Nouvelle-Calédonie exerce la compétence de l'enseignement du second degré public et privé et du primaire privé, transférée en application de l'article 21 de la loi organique de 1999.\nL'État conserve l'enseignement supérieur et la collation des grades, et met gratuitement à disposition les personnels qu'il rémunère.\nLes provinces ont la charge des collèges publics et les communes des écoles primaires publiques ; la Nouvelle-Calédonie, celle des lycées."
+ },
+ "sources": [
+  {
+   "titre": "Courrier de Nicolas Metzdorf : « une diatribe honteuse, raciste et néocoloniale », réagit le gouvernement du Vanuatu",
+   "media": "Les Nouvelles Calédoniennes",
+   "date": "05/10/2026",
+   "url": "https://www.lnc.nc/article/courrier-de-nicolas-metzdorf-une-diatribe-honteuse-raciste-et-neocoloniale-reagit-le-gouvernement-du-vanuatu"
+  },
+  {
+   "titre": "Vanuatu : l'opposition exige des excuses de Nicolas Metzdorf",
+   "media": "Radio Cocotier",
+   "date": "05/10/2026",
+   "url": "https://radiococotier.nc/2026/10/05/vanuatu-lopposition-exige-des-excuses-de-nicolas-metzdorf/"
+  },
+  {
+   "titre": "Matthew et Hunter : « Profondément offensant, paternaliste et d'une arrogance inacceptable »",
+   "media": "La Voix du Caillou",
+   "date": "06/10/2026",
+   "url": "https://voixducaillou.nc/2026/10/06/matthew-et-hunter-profondement-offensant-paternaliste-et-dune-arrogance-inacceptable/"
+  },
+  {
+   "titre": "Nicolas Metzdorf contrattaque sur Matthew et Hunter",
+   "media": "RRB",
+   "date": "06/10/2026",
+   "url": "https://www.rrb.nc/article/nicolas-metzdorf-contrattaque-sur-matthew-et-hunter"
+  },
+  {
+   "titre": "L'ACAPA reçue au Congrès de la Nouvelle-Calédonie",
+   "media": "Congrès de la Nouvelle-Calédonie",
+   "date": "06/10/2026",
+   "url": "https://www.congres.nc/lacapa-recue-au-congres-de-la-nouvelle-caledonie/"
+  },
+  {
+   "titre": "Proposition de délibération fixant la date d'ouverture et la durée de la seconde session ordinaire de l'année 2026",
+   "media": "Congrès de la Nouvelle-Calédonie",
+   "date": "01/10/2026",
+   "url": "https://www.congres.nc/proposition-de-deliberation-fixant-la-date-douverture-et-la-duree-de-la-seconde-session-ordinaire-de-lannee-2026-du-congres-de-la-nouvelle-caledonie/"
+  },
+  {
+   "titre": "Choose NC veut attirer les investisseurs en Calédonie",
+   "media": "Radio Cocotier",
+   "date": "06/10/2026",
+   "url": "https://radiococotier.nc/2026/10/06/choose-nc-veut-attirer-les-investisseurs-en-caledonie/"
+  },
+  {
+   "titre": "Dumbéa mise sur le rappel à l'ordre et la réparation",
+   "media": "Radio Cocotier",
+   "date": "06/10/2026",
+   "url": "https://radiococotier.nc/2026/10/06/dumbea-mise-sur-le-rappel-a-lordre-et-la-reparation/"
+  },
+  {
+   "titre": "Lycées : appel au blocus le 7 octobre",
+   "media": "Radio Cocotier",
+   "date": "06/10/2026",
+   "url": "https://radiococotier.nc/2026/10/06/lycees-appel-au-blocus-le-7-octobre/"
+  }
+ ]
+}
