@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-08",
+  "titre": "Revue de presse du 8 octobre 2026",
+  "items": [
+    {
+      "titre": "Cafat : un nouveau conseil d'administration pour trois ans",
+      "texte": "Le gouvernement a arrêté lundi la composition du conseil d'administration de la Cafat pour un mandat de trois ans, avec deux collèges de onze membres (salariés d'un côté, employeurs et travailleurs indépendants de l'autre). Ce conseil, qui vote le budget de la caisse, devra accompagner les réformes des retraites et du Ruamm, alors que le besoin de financement est estimé à 37 milliards de francs en 2027 (22 milliards pour la santé, 15 milliards pour les retraites du privé).",
+      "oral": "La protection sociale est une compétence de la Nouvelle-Calédonie (loi organique de 1999) : le jury peut vous interroger sur la gouvernance paritaire de la Cafat et sur le déficit du Ruamm."
+    },
+    {
+      "titre": "Budget 2027 de l'État : près de 34 milliards de francs pour la Nouvelle-Calédonie",
+      "texte": "Selon le projet de loi de finances pour 2027, les crédits du ministère des Outre-mer augmenteraient d'environ 10 %, avec une enveloppe de 34 milliards de francs d'autorisations d'engagement pour la Nouvelle-Calédonie. Parallèlement, l'État a proposé de négocier d'ici la fin de l'année un contrat financier pluriannuel 2027-2031, conditionné à des réformes des finances publiques et sociales, alors que la dette du pays atteint environ 188 milliards de francs.",
+      "oral": "Bien distinguer autorisations d'engagement et crédits de paiement (LOLF), et pouvoir expliquer la logique de « contrepartie » (aide conditionnée à des réformes) entre l'État et la Nouvelle-Calédonie."
+    },
+    {
+      "titre": "Reconstruction : le Congrès prolonge les mesures d'urbanisme simplifiées",
+      "texte": "Le Congrès a adopté le 1er octobre une loi du pays prolongeant pour cinq ans la procédure allégée (simple déclaration préalable au lieu d'un permis de construire) pour reconstruire les bâtiments détruits lors des troubles de 2024 ; 31 entreprises sur 746 concernées avaient déposé une demande. Le texte prolonge aussi l'allocation exceptionnelle de maintien dans l'emploi jusqu'au 31 décembre, avec effet rétroactif au 1er août, le gouvernement pouvant la renouveler jusqu'à fin 2027.",
+      "oral": "Exemple concret de loi du pays : savoir citer l'article 99 de la loi organique, l'avis du Conseil d'État et la possibilité de saisir le Conseil constitutionnel."
+    },
+    {
+      "titre": "Sénat : Georges Naturel rejoint le groupe Union centriste et indépendants",
+      "texte": "Le sénateur de la Nouvelle-Calédonie Georges Naturel, membre du groupe Les Républicains depuis son élection en 2023, a annoncé le 5 octobre rejoindre le groupe Union centriste et indépendants pour la rentrée parlementaire. Il indique rester dans la majorité sénatoriale.",
+      "oral": "La Nouvelle-Calédonie élit deux sénateurs et deux députés : le jury peut demander comment le territoire est représenté au Parlement et le rôle du Sénat dans les révisions constitutionnelles."
+    },
+    {
+      "titre": "Lycéens reçus au Haut-commissariat",
+      "texte": "Des membres du conseil calédonien de la vie lycéenne ont été reçus par le haut-commissaire Jacques Billant, le vice-recteur et la membre du gouvernement chargée de l'enseignement, Nina Julié, pour évoquer l'insalubrité, l'insécurité et le manque de personnel. Des travaux financés par l'État sont annoncés d'ici la fin de l'année aux lycées Escoffier (Nouméa) et Michel-Rocard (Pouembout).",
+      "oral": "Illustre le partage des rôles : enseignement secondaire transféré à la Nouvelle-Calédonie, mais personnels mis à disposition et financements de l'État, avec le vice-rectorat comme service de l'État."
+    },
+    {
+      "titre": "Panne des SMS bancaires : l'OPT-NC sans délai de rétablissement",
+      "texte": "Le 7 octobre au matin, l'OPT-NC a confirmé que l'envoi des SMS automatiques, dont les codes de validation bancaires, restait perturbé, bloquant certains paiements en ligne. L'opérateur attribue la panne au transfert de l'acheminement international des SMS vers une nouvelle plateforme, où un problème de configuration est soupçonné.",
+      "oral": "L'OPT est un établissement public de la Nouvelle-Calédonie : on peut relier l'épisode au principe de continuité du service public et à la dépendance numérique de l'administration."
+    }
+  ],
+  "question": {
+    "q": "Qu'est-ce qu'une loi du pays et comment est-elle contrôlée ?",
+    "r": "C'est une délibération du Congrès adoptée dans les matières de l'article 99 de la loi organique de 1999, qui a valeur législative.\nLe projet est soumis pour avis au Conseil d'État ; après adoption, une nouvelle lecture peut être demandée par le haut-commissaire, le gouvernement, un président de province ou des élus.\nElle peut ensuite être déférée au Conseil constitutionnel, et ne peut être contestée devant le juge administratif que par une QPC."
+  },
+  "sources": [
+    {
+      "titre": "Qui siège au conseil d'administration de la Cafat ?",
+      "media": "La Voix du Caillou",
+      "date": "07/10/2026",
+      "url": "https://voixducaillou.nc/2026/10/07/qui-siege-au-conseil-dadministration-de-la-cafat/"
+    },
+    {
+      "titre": "Budget 2027 : hausse de 10 % des moyens du ministère des Outre-mer",
+      "media": "Les Nouvelles Calédoniennes",
+      "date": "02/10/2026",
+      "url": "https://www.lnc.nc/article/budget-2027-hausse-de-10-des-moyens-du-ministere-des-outre-mer"
+    },
+    {
+      "titre": "Un nouveau contrat financier 2027-2031 conclu d'ici la fin de l'année entre l'État et la Nouvelle-Calédonie",
+      "media": "Les Nouvelles Calédoniennes",
+      "date": "05/10/2026",
+      "url": "https://www.lnc.nc/article/un-nouveau-contrat-financier-2027-2031-conclu-d-ici-la-fin-de-l-annee-entre-l-etat-et-la-nouvelle-caledonie"
+    },
+    {
+      "titre": "Le Congrès prolonge les mesures pour faciliter la reconstruction et l'allocation de maintien dans l'emploi",
+      "media": "Les Nouvelles Calédoniennes",
+      "date": "02/10/2026",
+      "url": "https://www.lnc.nc/article/le-congres-prolonge-les-mesures-pour-faciliter-la-reconstruction-et-l-allocation-de-maintien-dans-l-emploi"
+    },
+    {
+      "titre": "Le sénateur Georges Naturel quitte Les Républicains et rejoint le groupe Union centriste et indépendants",
+      "media": "Outremers360",
+      "date": "06/10/2026",
+      "url": "https://outremers360.com/bassin-pacifique-appli/nouvelle-caledonie-le-senateur-georges-naturel-quitte-les-republicains-et-rejoint-le-groupe-union-centriste-et-independants"
+    },
+    {
+      "titre": "Les lycéens reçus au Haut-Commissariat",
+      "media": "RRB",
+      "date": "07/10/2026",
+      "url": "https://www.rrb.nc/article/les-lyceens-recus-au-haut-commissariat"
+    },
+    {
+      "titre": "SMS de validation : la panne joue les prolongations",
+      "media": "Radio Cocotier",
+      "date": "07/10/2026",
+      "url": "https://radiococotier.nc/2026/10/07/sms-de-validation-la-panne-joue-les-prolongations/"
+    }
+  ]
+}
