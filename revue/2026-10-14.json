@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-14",
+  "titre": "Revue de presse du 14 octobre 2026",
+  "items": [
+    {
+      "titre": "Eramet : l'État va devenir le premier actionnaire du groupe minier",
+      "texte": "L'Élysée a annoncé le 12 octobre que l'État, via l'Agence des participations de l'État, augmentera significativement sa participation dans Eramet (un peu plus de 27 % fin 2025), sans dépasser 50 % du capital, à l'occasion d'une augmentation de capital pouvant atteindre 500 millions d'euros d'ici fin 2026. Eramet, actionnaire majoritaire de la SLN, a enregistré une perte nette de 477 millions d'euros en 2025 et de 195 millions au premier semestre 2026, et indique que la SLN est désormais financée intégralement par l'État.",
+      "oral": "Permet d'aborder la répartition des compétences minières : réglementation du nickel par la Nouvelle-Calédonie, application par les provinces, et rôle de l'État actionnaire et financeur."
+    },
+    {
+      "titre": "Nickel : un partenariat Union européenne – Nouvelle-Calédonie sur les matières premières",
+      "texte": "Un protocole d'accord couvrant toute la chaîne du nickel, de l'exploration au recyclage, doit être signé lors de la visite de Stéphane Séjourné, vice-président exécutif de la Commission européenne, prévue du 16 au 20 octobre. Le texte, présenté le 5 octobre à la commission spéciale nickel du Congrès, n'emporte aucune obligation juridique ni financement, mais prévoit une feuille de route de projets prioritaires dans les six mois.",
+      "oral": "Question possible : quel est le statut de la Nouvelle-Calédonie vis-à-vis de l'UE (PTOM) et quelles sont ses compétences pour négocier avec des organisations extérieures ?"
+    },
+    {
+      "titre": "Affaire des collaborateurs de la province Sud : peines confirmées en appel",
+      "texte": "La cour d'appel de Nouméa a confirmé le 13 octobre les peines d'emprisonnement en partie ferme et les cinq ans d'inéligibilité prononcées contre Philippe Gomès et Philippe Michel pour détournement de fonds publics. Le dossier porte sur des recrutements d'agents à la province Sud jugés par le tribunal correctionnel, en juillet 2025, sans lien avec le service de la collectivité.",
+      "oral": "Lien avec le cours : peine complémentaire d'inéligibilité, exécution provisoire et conséquences sur les mandats provinciaux et au Congrès ; probité et gestion des deniers publics."
+    },
+    {
+      "titre": "Le gouvernement élargit la liste des stupéfiants",
+      "texte": "Réuni le 12 octobre, le gouvernement de la Nouvelle-Calédonie a ajouté à la liste des stupéfiants des opioïdes de synthèse, des dérivés du fentanyl et du THC ainsi que le DOC, en s'appuyant sur des décisions de la Commission des stupéfiants de l'ONU. Leur production, leur vente et leur usage seront interdits, afin de donner un cadre d'intervention aux douanes, à la police et à la gendarmerie.",
+      "oral": "Illustre le pouvoir réglementaire du gouvernement, organe exécutif collégial, dans une compétence transférée (santé, réglementation des substances vénéneuses)."
+    },
+    {
+      "titre": "Conjoncture : l'économie calédonienne se redresse mais reste fragile",
+      "texte": "Selon la note de l'ISEE sur le deuxième trimestre 2026 (données provisoires), le secteur privé gagne environ 700 emplois sur un an, mais plus de 2 700 salariés restent potentiellement concernés par l'aide exceptionnelle au maintien dans l'emploi. La filière nickel a perdu plus d'un quart de ses effectifs depuis début 2024 et le déficit commercial atteint 29,7 milliards de francs sur le trimestre.",
+      "oral": "Utile pour parler du contexte budgétaire post-2024 : baisse des recettes fiscales, dispositifs de soutien à l'emploi et dépendance aux financements de l'État."
+    },
+    {
+      "titre": "Province Sud : vers une refonte des filières de déchets",
+      "texte": "La province Sud veut faire évoluer la gestion des neuf filières de déchets soumises depuis 2009 à la responsabilité élargie des producteurs, qui ont permis de collecter environ 165 000 tonnes, dont 140 000 en province Sud. Les acteurs se réunissent le 15 octobre à Nouméa pour un bilan dont les propositions alimenteront la révision du code de l'Environnement provincial.",
+      "oral": "L'environnement relève de la compétence de droit commun des provinces (art. 20 de la loi organique) : exemple concret d'une politique publique provinciale et de son code."
+    },
+    {
+      "titre": "Tontouta : vaste opération de lutte contre la fraude",
+      "texte": "Une opération ordonnée par le procureur de la République dans le cadre du comité opérationnel territorial anti-fraude (COTAF), coordonnée par le haut-commissariat, a visé des entreprises de transport routier et des commerces. Sur 141 personnes contrôlées, dix infractions ont été relevées, principalement pour travail dissimulé et activité non déclarée.",
+      "oral": "Montre la coopération entre services de l'État (police, gendarmerie, douanes, finances publiques) et organismes locaux, sous l'autorité du haut-commissaire et du parquet."
+    },
+    {
+      "titre": "Relations avec le Vanuatu : la CCI de Port-Vila interpelle le monde économique",
+      "texte": "Le président de la CCI du Vanuatu a jugé méprisants des propos contenus dans un courrier du député calédonien Nicolas Metzdorf daté du 1er octobre, et a demandé aux organisations économiques calédoniennes de se positionner. Il estime que cette controverse peut fragiliser les échanges entre entreprises des deux territoires, alors que les travaux sur un accord commercial bilatéral avaient déjà été suspendus en mai.",
+      "oral": "Ouvre sur l'insertion régionale de la Nouvelle-Calédonie (accords avec les États du Pacifique, membre du Forum des îles du Pacifique) et la compétence de l'État en relations extérieures."
+    }
+  ],
+  "question": {
+    "q": "Dans quel cadre juridique la Nouvelle-Calédonie peut-elle conclure un partenariat avec l'Union européenne, alors que les relations extérieures relèvent de l'État ?",
+    "r": "La Nouvelle-Calédonie n'appartient pas au territoire de l'UE : c'est un pays et territoire d'outre-mer (PTOM) associé à l'Union (partie IV du TFUE).\nLes relations extérieures restent une compétence de l'État, mais la loi organique de 1999 (art. 28 et suivants) permet aux autorités calédoniennes, dans leurs domaines de compétence, de négocier et signer des accords ou arrangements, avec l'association de l'État et l'autorisation du Congrès.\nUn protocole d'accord comme celui sur le nickel reste déclaratif : il n'a pas la valeur d'un traité et ne crée pas d'obligation juridique."
+  },
+  "sources": [
+    {
+      "titre": "L'État au chevet du minier Eramet, sans aller jusqu'à la nationalisation",
+      "media": "Les Nouvelles Calédoniennes",
+      "date": "13/10/2026",
+      "url": "https://www.lnc.nc/article/l-etat-au-chevet-du-minier-eramet-sans-aller-jusqu-a-la-nationalisation"
+    },
+    {
+      "titre": "Eramet : l'État français va devenir le premier actionnaire du groupe minier en difficulté",
+      "media": "La Dépêche NC",
+      "date": "13/10/2026",
+      "url": "https://ladepeche.nc/2026/10/13/eramet-letat-francais-va-devenir-le-premier-actionnaire-du-groupe-minier-en-difficulte"
+    },
+    {
+      "titre": "L'Europe peut-elle aider à sauver le nickel calédonien ?",
+      "media": "Les Nouvelles Calédoniennes",
+      "date": "13/10/2026",
+      "url": "https://www.lnc.nc/article/l-europe-peut-elle-aider-a-sauver-le-nickel-caledonien"
+    },
+    {
+      "titre": "Nickel : une signature en vue avec l'Europe",
+      "media": "DNC",
+      "date": "08/10/2026",
+      "url": "https://www.dnc.nc/nickel-une-signature-en-vue-avec-leurope/"
+    },
+    {
+      "titre": "Affaire des emplois fictifs : les peines de Philippe Gomès et Philippe Michel confirmées en appel",
+      "media": "Nouvelle-Calédonie La 1ère",
+      "date": "13/10/2026",
+      "url": "https://la1ere.franceinfo.fr/nouvellecaledonie/affaire-des-emplois-fictifs-les-peines-de-philippe-gomes-et-philippe-michel-confirmees-en-appel-1747485.html"
+    },
+    {
+      "titre": "La Calédonie durcit les règles face aux drogues de synthèse",
+      "media": "Radio Cocotier",
+      "date": "13/10/2026",
+      "url": "https://radiococotier.nc/2026/10/13/la-caledonie-elargit-sa-liste-des-stupefiants/"
+    },
+    {
+      "titre": "L'économie calédonienne reprend des couleurs, mais reste fragile",
+      "media": "Radio Cocotier",
+      "date": "14/10/2026",
+      "url": "https://radiococotier.nc/2026/10/14/leconomie-caledonienne-reprend-des-couleurs-mais-reste-fragile/"
+    },
+    {
+      "titre": "La province Sud prépare un nouveau cap pour ses déchets",
+      "media": "Radio Cocotier",
+      "date": "13/10/2026",
+      "url": "https://radiococotier.nc/2026/10/13/la-province-sud-prepare-un-nouveau-cap-pour-ses-dechets/"
+    },
+    {
+      "titre": "Vaste opération antifraude à Tontouta",
+      "media": "Radio Cocotier",
+      "date": "13/10/2026",
+      "url": "https://radiococotier.nc/2026/10/13/vaste-operation-antifraude-a-tontouta/"
+    },
+    {
+      "titre": "Les entreprises pourraient-elles faire les frais des tensions avec le Vanuatu ?",
+      "media": "Radio Cocotier",
+      "date": "13/10/2026",
+      "url": "https://radiococotier.nc/2026/10/13/les-entreprises-pourraient-elles-faire-les-frais-des-tensions-avec-le-vanuatu/"
+    }
+  ]
+}
