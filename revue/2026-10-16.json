@@ -1,0 +1,90 @@
+{
+ "date": "2026-10-16",
+ "titre": "Revue de presse du 16 octobre 2026",
+ "items": [
+  {
+   "titre": "Congrès : vers une délégation élargie à la commission permanente pour 47 textes",
+   "texte": "Le Congrès était convoqué en session extraordinaire le mercredi 14 octobre, à la demande du gouvernement, pour voter une proposition de délibération de sa présidente Virginie Ruffenach élargissant jusqu'en novembre les pouvoirs délégués à la commission permanente. Le gouvernement souhaite faire examiner 47 textes d'ici novembre (21 déjà déposés, 26 à déposer), les lois du pays, le budget et la fiscalité restant réservés à l'assemblée plénière.",
+   "oral": "Bonne illustration du fonctionnement du Congrès hors session ordinaire : le jury peut demander la différence entre session ordinaire et extraordinaire et les limites de la délégation à la commission permanente."
+  },
+  {
+   "titre": "Eramet : l'action chute après l'annonce de l'entrée renforcée de l'État",
+   "texte": "Au lendemain de l'annonce par l'Élysée d'une augmentation de capital pouvant atteindre 500 millions d'euros, qui ferait de l'État le premier actionnaire d'Eramet sans dépasser 50 %, l'action du groupe a reculé de plus de 14 % le 13 octobre. La Dépêche précise que l'opération ne modifie pas automatiquement le financement ni la gouvernance de la SLN, filiale désormais financée entièrement par l'État.",
+   "oral": "Permet de distinguer prise de participation et nationalisation, et de rappeler que le soutien à la SLN relève de l'État actionnaire et prêteur, non des compétences de la Nouvelle-Calédonie en matière minière."
+  },
+  {
+   "titre": "Nickel : la situation des trois usines avant la visite de Stéphane Séjourné",
+   "texte": "Selon l'AFP, Prony Resources n'a plus de repreneur depuis le retrait en septembre du consortium New Battery Metals, la SLN a reçu environ 730 millions d'euros de financements directs de l'État depuis 2023, et KNS est à l'arrêt depuis 2024 en attendant un remplaçant à Glencore. Le protocole UE-Nouvelle-Calédonie qui doit être signé le 20 octobre ne prévoit à ce stade ni engagement financier ni projet industriel précis, a reconnu Alcide Ponga, membre du gouvernement chargé du nickel.",
+   "oral": "Question possible : quelle collectivité est compétente pour la réglementation minière (Nouvelle-Calédonie) et pour l'instruction des titres miniers (provinces) ?"
+  },
+  {
+   "titre": "Mont-Dore : la maire demande un couvre-feu pour les mineurs",
+   "texte": "La maire du Mont-Dore, Nina Julié, a adressé un courrier au haut-commissaire pour demander un couvre-feu pour les mineurs jusqu'à la fin de la période scolaire en cours. Elle invoque la hausse de la délinquance pendant les vacances, citant notamment des dégradations à l'école Hélène Chnaiel de Pont-des-Français et près du centre culturel et sportif de Boulari.",
+   "oral": "Lien avec le cours de police administrative : une mesure de couvre-feu doit être nécessaire et proportionnée, et l'ordre public relève de l'État en Nouvelle-Calédonie, d'où la saisine du haut-commissaire."
+  },
+  {
+   "titre": "Union calédonienne : positions sur la présidentielle, le nickel et la loi organique",
+   "texte": "Après un comité directeur à Thio, l'Union calédonienne a annoncé son soutien à Jean-Luc Mélenchon pour l'élection présidentielle de 2027 et son opposition au protocole d'accord avec l'Union européenne. Son président Emmanuel Tjibaou s'est dit réservé sur la proposition du Premier ministre de modifier la loi organique et attend la lettre de mission du haut-commissaire ; le congrès du parti se tiendra du 13 au 15 novembre à Poya.",
+   "oral": "Rappel utile : la loi organique de 1999 est le cadre statutaire de la Nouvelle-Calédonie, et sa modification relève du Parlement, après consultation du Congrès."
+  },
+  {
+   "titre": "Aircalin : une association de consommateurs réclame un audit",
+   "texte": "L'association Que Choisir Ensemble a écrit au président du gouvernement, Milakulo Tukumuli, pour demander une enquête indépendante sur les pannes à répétition d'Aircalin, après une nouvelle panne d'A330. Elle relie ces difficultés à l'ouverture en 2024 de la ligne Paris-Nouméa via Bangkok et demande à l'État une aide au titre de la continuité territoriale.",
+   "oral": "Sujet d'entretien possible sur le contrôle des sociétés d'économie mixte et des entreprises publiques locales par la collectivité actionnaire."
+  }
+ ],
+ "question": {
+  "q": "Qu'est-ce que la commission permanente du Congrès et que peut-elle décider ?",
+  "r": "C'est une formation restreinte du Congrès, élue chaque année à la représentation proportionnelle, qui siège en dehors des sessions. Elle n'exerce que les attributions que le Congrès lui délègue par délibération. La loi organique lui interdit d'adopter les lois du pays, le budget et les textes fiscaux, qui restent de la compétence de l'assemblée plénière."
+ },
+ "sources": [
+  {
+   "titre": "47 textes, un seul vote",
+   "media": "La Dépêche de Nouméa",
+   "date": "12/10/2026",
+   "url": "https://ladepeche.nc/2026/10/12/47-textes-un-seul-vote"
+  },
+  {
+   "titre": "Eramet : l'État français va devenir le premier actionnaire du groupe minier en difficulté",
+   "media": "La Dépêche de Nouméa",
+   "date": "13/10/2026",
+   "url": "https://ladepeche.nc/2026/10/13/eramet-letat-francais-va-devenir-le-premier-actionnaire-du-groupe-minier-en-difficulte"
+  },
+  {
+   "titre": "L'action du minier Eramet en forte baisse après l'annonce de son sauvetage par l'État",
+   "media": "Les Nouvelles Calédoniennes",
+   "date": "14/10/2026",
+   "url": "https://www.lnc.nc/article/l-action-du-minier-eramet-en-forte-baisse-apres-l-annonce-de-son-sauvetage-par-l-etat"
+  },
+  {
+   "titre": "Nickel calédonien : entre la France, l'UE et la Chine, l'enjeu du contrôle de la ressource",
+   "media": "Les Nouvelles Calédoniennes",
+   "date": "15/10/2026",
+   "url": "https://lnc.nc/article/nickel-caledonien-entre-la-france-l-ue-et-la-chine-l-enjeu-du-controle-de-la-ressource"
+  },
+  {
+   "titre": "Quel sera le programme de Stéphane Séjourné, commissaire européen en visite en Nouvelle-Calédonie ?",
+   "media": "Les Nouvelles Calédoniennes",
+   "date": "15/10/2026",
+   "url": "https://www.lnc.nc/article/quel-sera-le-programme-de-stephane-sejourne-commissaire-europeen-en-visite-en-nouvelle-caledonie"
+  },
+  {
+   "titre": "Nina Julié demande un couvre-feu pour les mineurs",
+   "media": "Radio Rythme Bleu",
+   "date": "15/10/2026",
+   "url": "https://www.rrb.nc/article/nina-julie-demande-un-couvre-feu-pour-les-mineurs"
+  },
+  {
+   "titre": "L'UC soutient Jean-Luc Mélenchon",
+   "media": "Radio Rythme Bleu",
+   "date": "14/10/2026",
+   "url": "https://www.rrb.nc/article/luc-soutient-jean-luc-melenchon"
+  },
+  {
+   "titre": "L'association Que Choisir Ensemble réclame un audit sur les pannes à répétition d'Aircalin",
+   "media": "La Voix du Caillou",
+   "date": "14/10/2026",
+   "url": "https://voixducaillou.nc/2026/10/14/lassociation-que-choisir-ensemble-reclame-un-audit-sur-les-pannes-a-repetition-daircalin/"
+  }
+ ]
+}
