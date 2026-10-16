@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-17",
+  "titre": "Revue de presse du 17 octobre 2026",
+  "items": [
+    {
+      "titre": "Congrès : la commission permanente habilitée à examiner 47 textes jusqu'en novembre",
+      "texte": "Réuni en session extraordinaire le 14 octobre à la demande du gouvernement, le Congrès a adopté la délibération n° 19 qui élargit les compétences de sa commission permanente durant l'intersession d'août à novembre 2026, avec une liste de 47 textes. Le renvoi en commission permanente reste facultatif : les projets les plus politiques peuvent être examinés en séance publique par les 54 élus.",
+      "oral": "Distinguer séance plénière et commission permanente : les lois du pays, le budget et la fiscalité relèvent de l'assemblée plénière, ce qui illustre la répartition des pouvoirs au sein du Congrès prévue par la loi organique de 1999."
+    },
+    {
+      "titre": "Le bureau du Congrès reçoit le syndicat des médecins urgentistes",
+      "texte": "Le 14 octobre, le syndicat des médecins urgentistes a décrit aux élus la saturation des urgences, le manque de personnel, le déficit de lits au Centre hospitalier territorial et les difficultés d'accès aux soins en brousse et dans les îles. Il a proposé la réouverture de lits et la création d'une maison médicale de garde ; la présidente du Congrès a estimé que les solutions ne passent pas nécessairement par des moyens financiers supplémentaires.",
+      "oral": "La santé est une compétence de la Nouvelle-Calédonie (et des provinces pour l'aide médicale) : le jury peut demander qui finance et organise l'offre de soins, et le rôle du CHT, établissement public de la Nouvelle-Calédonie."
+    },
+    {
+      "titre": "Reconstruction du CFA de Nouville : un financement partagé entre l'État, le gouvernement et la CMA-NC",
+      "texte": "Le centre de formation de l'artisanat de la CMA-NC, détruit lors des événements de mai 2024, sera reconstruit sur son site de Nouville : l'État apporte 1,6 milliard de F CFP, la CMA-NC 1,3 milliard et le gouvernement 405 millions, auxquels s'ajoutent 257,3 millions pour l'équipement des ateliers. Après un appel d'offres, la SECAL a été désignée maître d'ouvrage délégué ; sécurisation du site et premières démolitions sont prévues avant la fin de l'année.",
+      "oral": "Exemple concret de commande publique : maîtrise d'ouvrage déléguée, cofinancement multi-partenaires et place des chambres consulaires (établissements publics) dans la reconstruction post-2024."
+    },
+    {
+      "titre": "Nickel : un protocole d'accord UE–Nouvelle-Calédonie attendu le 20 octobre",
+      "texte": "Le mémorandum, présenté le 5 octobre à la commission spéciale nickel du Congrès, doit être signé lors de la visite de Stéphane Séjourné ; il vise à attirer des investisseurs et de nouveaux clients, sans garantir de financement ni de commande, une feuille de route devant préciser les projets dans les six mois. Plusieurs formations indépendantistes, dont l'Union calédonienne et Kanaky NC, ont indiqué ne pas approuver le texte en l'état et réclament des clarifications.",
+      "oral": "Les ressources minières relèvent largement des provinces et le nickel est un enjeu de souveraineté économique : savoir présenter la répartition des compétences minières et le statut de PTOM de la Nouvelle-Calédonie à l'égard de l'Union européenne."
+    },
+    {
+      "titre": "Visite du commissaire européen : un programme très institutionnel",
+      "texte": "Stéphane Séjourné, vice-président exécutif de la Commission européenne, est en Nouvelle-Calédonie du 17 au 20 octobre : il rencontre ce samedi le haut-commissaire Jacques Billant, le président du Sénat coutumier Richard Poarairiwa et le président du gouvernement Milakulo Tukumuli, puis prononcera une allocution devant le Congrès en séance solennelle le 19 octobre. Une convention de financement d'environ 597 millions de F CFP en faveur de la formation professionnelle doit également être signée le 20 octobre.",
+      "oral": "Occasion de réviser les acteurs institutionnels : représentant de l'État, gouvernement collégial, Congrès et Sénat coutumier, et la conduite des relations extérieures dans le respect des compétences de l'État."
+    }
+  ],
+  "question": {
+    "q": "Qu'est-ce qu'une maîtrise d'ouvrage déléguée et pourquoi y recourir pour un projet comme la reconstruction du CFA de Nouville ?",
+    "r": "Le maître d'ouvrage (ici la CMA-NC) reste responsable du projet, de son programme et de son financement, mais confie par contrat à un mandataire (la SECAL) l'exercice en son nom de certaines attributions : passation et suivi des marchés, gestion administrative et financière.\nLe mandataire est choisi après mise en concurrence et agit dans les limites de son mandat ; le maître d'ouvrage valide les étapes clés et réceptionne l'ouvrage.\nIntérêt : apporter une expertise technique à une structure qui n'en dispose pas, sécuriser les procédures et tenir les délais d'un projet cofinancé par plusieurs partenaires."
+  },
+  "sources": [
+    {
+      "titre": "Délibération n°19 du 14 octobre 2026 portant habilitation de la Commission permanente",
+      "media": "Congrès de la Nouvelle-Calédonie",
+      "date": "16/10/2026",
+      "url": "https://www.congres.nc/deliberation-n19-du-14-octobre-2026-portant-habilitation-de-la-commission-permanente-du-congres-de-la-nouvelle-caledonie-durant-lintersession-daout-a-novembre-2026/"
+    },
+    {
+      "titre": "47 textes, un seul vote",
+      "media": "La Dépêche de Nouméa",
+      "date": "12/10/2026",
+      "url": "https://ladepeche.nc/2026/10/12/47-textes-un-seul-vote"
+    },
+    {
+      "titre": "Le Congrès à l'écoute des médecins urgentistes",
+      "media": "Congrès de la Nouvelle-Calédonie",
+      "date": "16/10/2026",
+      "url": "https://www.congres.nc/le-congres-a-lecoute-des-medecins-urgentistes/"
+    },
+    {
+      "titre": "Le gouvernement aux côtés de l'État et de la CMA-NC pour la reconstruction du CFA de Nouville",
+      "media": "Gouvernement de la Nouvelle-Calédonie",
+      "date": "16/10/2026",
+      "url": "https://gouv.nc/actualites/16-10-2026/le-gouvernement-aux-cotes-de-letat-et-de-la-cma-nc-pour-la-reconstruction-du"
+    },
+    {
+      "titre": "Nickel : un accord avec l'Europe, sur fond de désaccord politique",
+      "media": "Radio Cocotier",
+      "date": "15/10/2026",
+      "url": "https://radiococotier.nc/2026/10/15/nickel-un-accord-avec-leurope-sur-fond-de-desaccord-politique/"
+    },
+    {
+      "titre": "Nickel : une signature en vue avec l'Europe",
+      "media": "DNC",
+      "date": "08/10/2026",
+      "url": "https://www.dnc.nc/nickel-une-signature-en-vue-avec-leurope/"
+    },
+    {
+      "titre": "Présidentielle 2027 : l'Union calédonienne annonce son soutien à Jean-Luc Mélenchon",
+      "media": "Les Nouvelles Calédoniennes",
+      "date": "15/10/2026",
+      "url": "https://www.lnc.nc/article/presidentielle-2027-l-union-caledonienne-annonce-son-soutien-a-jean-luc-melenchon"
+    },
+    {
+      "titre": "Quel sera le programme de Stéphane Séjourné, commissaire européen en visite en Nouvelle-Calédonie ?",
+      "media": "Les Nouvelles Calédoniennes",
+      "date": "15/10/2026",
+      "url": "https://www.lnc.nc/article/quel-sera-le-programme-de-stephane-sejourne-commissaire-europeen-en-visite-en-nouvelle-caledonie"
+    }
+  ]
+}
