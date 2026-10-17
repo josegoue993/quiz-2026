@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-18",
+  "titre": "Revue de presse du 18 octobre 2026",
+  "items": [
+    {
+      "titre": "Nickel : premier jour de la visite de Stéphane Séjourné, avant la signature d'un protocole avec l'UE",
+      "texte": "Le commissaire européen Stéphane Séjourné a rencontré le 17 octobre le haut-commissaire Jacques Billant et le Sénat coutumier, au premier jour d'une visite qui doit s'achever le 20 octobre par la signature d'un protocole d'entente (MoU) sur un partenariat stratégique pour les chaînes de valeur des matières premières. Il a présenté ce texte comme non contraignant, « un texte de possibilités, pas de contraintes », alors que le FLNKS l'a critiqué dans un communiqué du 16 octobre.",
+      "oral": "Pour l'oral : qui est compétent pour signer un tel accord ? Le président du gouvernement peut négocier et signer des accords avec des organisations internationales dans les domaines de compétence de la NC (art. 28 et suivants de la loi organique de 1999), et la NC est un PTOM associé à l'UE."
+    },
+    {
+      "titre": "Autorité de la concurrence : un syndicat appelle à la grève et demande le départ du président",
+      "texte": "La Fédé a déposé un préavis de grève reconductible à compter du lundi 19 octobre à l'Autorité de la concurrence de la Nouvelle-Calédonie et réclame le départ de son président, Stéphane Retterer, nommé en 2023. Le syndicat invoque une crise de gouvernance, des risques psychosociaux et une menace sur l'indépendance du service d'instruction.",
+      "oral": "Pour l'oral : l'Autorité de la concurrence est une autorité administrative indépendante créée par le Congrès ; le jury peut interroger sur la notion d'AAI et sur la séparation entre instruction (rapporteur général) et décision (collège)."
+    },
+    {
+      "titre": "Camp-Est : la rapporteure publique propose d'indemniser 24 détenus",
+      "texte": "Le tribunal administratif de Nouvelle-Calédonie a examiné le 15 octobre 25 demandes d'indemnisation pour conditions de détention indignes au centre pénitentiaire de Nouméa ; la rapporteure publique propose d'en accueillir 24, pour un total d'environ 10,2 millions de francs. La décision est attendue le 5 novembre, le critère central étant l'espace individuel (moins de 3 m² par personne pouvant caractériser une atteinte à la dignité).",
+      "oral": "Pour l'oral : illustration de la responsabilité administrative de l'État pour faute (service public pénitentiaire) et du rôle du rapporteur public, qui propose une solution sans lier la formation de jugement."
+    },
+    {
+      "titre": "CHS Albert-Bousquet : une association réclame les registres d'isolement et de contention",
+      "texte": "La Commission des citoyens pour les droits de l'Homme (CCDH) reproche au centre hospitalier spécialisé de Nouville de ne pas communiquer ses registres d'isolement et de contention, malgré des avis favorables de la CADA et deux recours devant le tribunal administratif. L'établissement indique qu'il ne disposait pas jusqu'ici du logiciel nécessaire et annonce un nouveau système pour fin octobre ou novembre.",
+      "oral": "Pour l'oral : droit d'accès aux documents administratifs (rôle consultatif de la CADA, recours contentieux ensuite) et statut d'établissement public de santé de la Nouvelle-Calédonie."
+    },
+    {
+      "titre": "Prix : recul de 0,8 % en septembre, moins marqué pour les ménages modestes",
+      "texte": "Selon l'Isee, l'indice des prix a baissé de 0,8 % en septembre 2026 (+0,9 % sur un an), porté par l'habillement (-11,2 %), les billets d'avion internationaux (-10,3 %) et les légumes (-8,4 %), tandis que le gazole a augmenté de 5,9 % sur le mois. Pour les ménages modestes, la baisse est limitée à 0,6 %, et l'énergie reste 13,5 % plus chère qu'un an plus tôt.",
+      "oral": "Pour l'oral : la réglementation des prix relève de la compétence de la Nouvelle-Calédonie (gouvernement et Congrès) ; question possible sur les outils de lutte contre la vie chère."
+    },
+    {
+      "titre": "Sécurité civile : un premier « village de la résilience » à Nouméa",
+      "texte": "Le gouvernement de la Nouvelle-Calédonie a organisé le 17 octobre, à l'occasion de la Journée nationale de la résilience, un village de la résilience au CISS Sud à Nouméa avec pompiers, forces de l'ordre, Croix-Rouge et Ordre de Malte. L'objectif affiché est de développer une « culture du risque » face aux incendies, crues et accidents industriels, à l'approche d'une saison sèche jugée intense.",
+      "oral": "Pour l'oral : la sécurité civile est une compétence transférée à la Nouvelle-Calédonie depuis 2014, l'État conservant des attributions (ordre public, haut-commissaire)."
+    }
+  ],
+  "question": {
+    "q": "Qu'est-ce qu'une autorité administrative indépendante en Nouvelle-Calédonie ? Donnez un exemple.",
+    "r": "C'est un organisme administratif qui agit au nom de la Nouvelle-Calédonie sans être soumis au pouvoir hiérarchique du gouvernement, afin de garantir impartialité et expertise.\nLa loi organique de 2013 a permis au Congrès d'en créer par loi du pays (art. 27-1 de la loi organique de 1999) : l'Autorité de la concurrence, créée en 2014, en est l'exemple principal.\nElle contrôle les concentrations et sanctionne les pratiques anticoncurrentielles, sous le contrôle du juge, ce qui pose la question de l'équilibre entre indépendance et responsabilité."
+  },
+  "sources": [
+    {
+      "titre": "« Un texte de possibilités, pas de contraintes » : au premier jour de sa visite, Stéphane Séjourné tente de dissiper les doutes sur l'accord avec l'UE",
+      "media": "Les Nouvelles Calédoniennes",
+      "date": "17/10/2026",
+      "url": "https://www.lnc.nc/article/un-texte-de-possibilites-pas-de-contraintes-au-premier-jour-de-sa-visite-stephane-sejourne-tente-de-dissiper-les-doutes-sur-l-accord-avec-l-ue"
+    },
+    {
+      "titre": "Autorité de la Concurrence : la Fédé exige le départ du président",
+      "media": "Radio Cocotier",
+      "date": "17/10/2026",
+      "url": "https://radiococotier.nc/2026/10/17/autorite-de-la-concurrence-la-fede-exige-le-depart-du-president/"
+    },
+    {
+      "titre": "Camp-Est : plus de 10 millions de francs d'indemnisation proposés pour 24 détenus",
+      "media": "Les Nouvelles Calédoniennes",
+      "date": "17/10/2026",
+      "url": "https://www.lnc.nc/article/camp-est-plus-de-10-millions-de-francs-d-indemnisation-proposes-pour-24-detenus"
+    },
+    {
+      "titre": "L'hôpital psychiatrique de Nouméa accusé d'opacité sur le traitement de ses patients internés",
+      "media": "Les Nouvelles Calédoniennes",
+      "date": "16/10/2026",
+      "url": "https://www.lnc.nc/article/l-hopital-psychiatrique-de-noumea-accuse-d-opacite-sur-le-traitement-de-ses-patients-internes"
+    },
+    {
+      "titre": "Les prix reculent en septembre, mais le répit reste inégal",
+      "media": "Radio Cocotier",
+      "date": "15/10/2026",
+      "url": "https://radiococotier.nc/2026/10/15/les-prix-reculent-en-septembre-mais-le-repit-reste-inegal/"
+    },
+    {
+      "titre": "Face aux risques de catastrophes, le gouvernement veut « placer le citoyen au cœur du dispositif »",
+      "media": "Les Nouvelles Calédoniennes",
+      "date": "17/10/2026",
+      "url": "https://www.lnc.nc/article/face-aux-risques-de-catastrophes-le-gouvernement-veut-placer-le-citoyen-au-coeur-du-dispositif"
+    }
+  ]
+}
